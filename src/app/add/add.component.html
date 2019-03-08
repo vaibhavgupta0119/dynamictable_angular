@@ -1,0 +1,19 @@
+<button (click)="clickFunction()">click here</button>
+<table >
+  <th *ngFor="let item of head" (click)="sort()">
+    <tr>
+      {{item}}
+    </tr>
+  </th>
+
+  <tr *ngFor="let arr of jsonData">
+   <td>{{arr.F_name}}</td>
+    <td>{{arr.L_Name}}</td>
+    <td>{{arr.EMAIL}}</td>
+    <td>{{arr.E_ID}}</td>
+    <td>{{arr.MOBILE_NUMBER}}</td>
+    <td>{{arr.DESIGNATION}}</td>
+    <td>{{arr.DOB}}</td>
+ </tr>
+</table>
+

@@ -1,0 +1,29 @@
+[ 
+    {
+        "F_name":"Himvan",
+        "L_Name":"Sharma",
+        "EMAIL":"Himvan.sharma@outlook.com",
+        "E_ID":6164,
+        "MOBILE_NUMBER":7455990114,
+        "DESIGNATION":"Software Engineer",
+        "DOB":"18/11/1997"
+    },
+    {
+        "F_name":"Shivank",
+        "L_Name":"Singh",
+        "EMAIL":"Shivank.singh@outlook.com",
+        "E_ID":6189,
+        "MOBILE_NUMBER":9914408228,
+        "DESIGNATION":"Software Engineer",
+        "DOB":"21/02/1997"
+    },
+    {
+        "F_name":"Charu",
+        "L_Name":"Chaudhary",
+        "EMAIL":"Charu.chaudhary@outlook.com",
+        "E_ID":6190,
+        "MOBILE_NUMBER":9988456373,
+        "DESIGNATION":"Software Engineer",
+        "DOB":"01/11/1996"
+    }
+]
